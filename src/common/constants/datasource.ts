@@ -1,0 +1,2 @@
+
+export const TENENT_CONNECTION = "TENENT_CONNECTION"

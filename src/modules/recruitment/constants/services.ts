@@ -1,0 +1,1 @@
+export const RECRUITMENT_SERVICE = "recruitment_service"
